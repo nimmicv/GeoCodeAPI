@@ -1,4 +1,4 @@
-package samsung.pay.com.analytics;
+package nimmi.com.analytics;
 
 public final class Consts {
 	static String BANK_NAMES_FILE = "/home/n.varkey/Desktop/Analytics/banks.txt";
