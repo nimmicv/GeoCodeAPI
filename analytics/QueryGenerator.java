@@ -1,4 +1,4 @@
-package samsung.pay.com.analytics;
+package nimmi.com.analytics;
 
 import java.io.File;
 import java.io.FileNotFoundException;
